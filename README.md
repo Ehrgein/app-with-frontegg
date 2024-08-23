@@ -4,7 +4,7 @@ Quick example on how to set up an integration with Frontegg on React + vite.
 
 ## Steps
 
-Firstly, clone this repository to your environment.
+> Firstly, clone this repository to your environment.
 
 
 
