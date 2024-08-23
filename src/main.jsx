@@ -9,10 +9,6 @@ const contextOptions = {
   clientId: "cbf94696-a259-4d1a-9a2f-d7876bf6240d",
 };
 
-// const authOptions = {
-//   // keepSessionAlive: true // Uncomment this in order to maintain the session alive
-// };
-
 // Changed the authOptions so that if the user has authenticated before, they will not see a 'Login' button. They will be taken to the portal automatically.
 // Could potentially add a Suspense for a loading spinner perhaps for better UX
 const authOptions = {
